@@ -125,6 +125,7 @@ Coordinación desde una clase “gestor” central
 3. Compila y ejecuta usando el botón Run de VS Code o por terminal:
 
 javac PlataformaNotasApp.java
+
 java PlataformaNotasApp
 
 4. Espera la pantalla de carga y empezará la interfaz gráfica.
