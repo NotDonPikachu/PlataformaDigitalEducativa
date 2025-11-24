@@ -102,7 +102,6 @@ VentanaPrincipal (interfaz gráfica)
 
 PlataformaNotasApp (clase principal)
 
-
 Cada clase sigue principios de:
 
 Encapsulamiento
