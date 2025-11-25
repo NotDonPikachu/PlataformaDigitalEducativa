@@ -49,8 +49,8 @@ GestorAcademico.java        ← Controlador Central
 
 ## ▶️ **Cómo Ejecutar**
 1. **JDK 17+** instalado.
-2. Abrir en **VS Code**.
-3. Abre una terminal (cmd) en la carpeta raíz del proyecto y ejecuta:
+2. Abre una terminal (cmd) en la carpeta raíz del proyecto.
+3. Ejecuta el comando:
    ```
    java PlataformaNotasApp
    ```
