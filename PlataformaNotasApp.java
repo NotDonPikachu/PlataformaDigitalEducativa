@@ -27,7 +27,7 @@ public class PlataformaNotasApp {
         titulo.setFont(new Font("Segoe UI", Font.BOLD, 22));
         titulo.setForeground(Color.WHITE);
 
-        JLabel subtitulo = new JLabel("Creado por el Grupo 4", SwingConstants.CENTER);
+        JLabel subtitulo = new JLabel("Creado por el Grupo 5", SwingConstants.CENTER);
         subtitulo.setFont(new Font("Segoe UI", Font.PLAIN, 16));
         subtitulo.setForeground(new Color(200, 213, 255));
 
